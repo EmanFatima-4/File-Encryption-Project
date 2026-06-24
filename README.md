@@ -1,2 +1,16 @@
-# File-Encryption-Project
-A secure file encryption and decryption system built with Python using the Cryptography (Fernet) library. The project allows users to generate encryption keys and protect sensitive files with strong symmetric encryption.
+# File Encryption System 🔐
+
+A Python-based file encryption and decryption system that uses the Fernet encryption algorithm from the Cryptography library to securely protect files.
+
+## Features
+
+- Generate secure encryption keys
+- Encrypt files
+- Decrypt encrypted files
+- Easy-to-use Python scripts
+- Strong Fernet symmetric encryption
+
+## Technologies Used
+
+- Python
+- Cryptography (Fernet)
